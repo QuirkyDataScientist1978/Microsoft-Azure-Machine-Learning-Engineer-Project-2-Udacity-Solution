@@ -5,9 +5,26 @@ Microsoft Azure Machine Learning Engineer Project 2 Udacity Solution. Repository
 
 
 
-<img src="/images/Slide1.PNG">   kk
+<img src="/images/Slide1.PNG">
 
 
+
+
+[Authenticate]<img src="/images/Slide2.PNG">
+
+
+
+
+<img src="/images/Slide3.PNG">
+
+
+
+
+<img src="/images/Slide4.PNG">
+
+
+
+<img src="/images/Slide5.PNG">
 
 
 ## Video Link
