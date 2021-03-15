@@ -24,93 +24,53 @@ Swagger is a great tool that helps us build, document and consume RESTful API we
 Lastly, the deployed service is consumed via an HTTP API. We initiate an inpute request, in this case via an HTTP Post request method to submit data. The HTTP GET request is another request method to retrieve information from a web server. This creates a bi-directional flow of allowed information in Azure. In order to consume deployed services, we modify the URI and key to match the primary key for our service and RESTful URI is generated after deployment. The execution of the endpoint.py script after modification gives the output. 
 
 ### Project 2 Architecture<img src="/images/Slide1.PNG">
-
 ### Authenticate, Update, Install Azure CLI<img src="/images/Slide2.PNG">
-
 ### Azure CLI Login<img src="/images/Slide3.PNG">
-
 ### Azure CLI Login Picture 2<img src="/images/Slide4.PNG">
-
 ### Azure Principal Service Already Setup<img src="/images/Slide5.PNG">
-
 ### Azure CLI Login<img src="/images/Slide6.PNG">
-
 ### Azure CLI Login Picture 2<img src="/images/Slide7.PNG">
-
 ### Azure Bank Marketing Dataset Final Deployment<img src="/images/Slide8.PNG">
-
 ### Azure Bank Marketing Dataset Final Deployment Picture 2<img src="/images/Slide9.PNG">
-
 ### Insights Client & GET API Test with 200 Message - Success<img src="/images/Slide10.PNG">
-
 ### Azure endpoint.py Script Run<img src="/images/Slide11.PNG">
-
 ### Bank Marketing Dataset Final Deployment with Authentication Keys<img src="/images/Slide12.PNG">
-
-<img src="/images/Slide13.PNG">
-
 ### Azure Datastore Service Principal<img src="/images/Slide14.PNG">
-
 ### Bank Marketing Dataset<img src="/images/Slide15.PNG">
-
 ### Bank Marketing Dataset Picture 2<img src="/images/Slide16.PNG">
-
 ### Azure Run Complete<img src="/images/Slide17.PNG">
-
 ### Azure Run<img src="/images/Slide18.PNG">
-
 ### Azure Pipeline Overview<img src="/images/Slide19.PNG">
-
 ### Azure Best Model<img src="/images/Slide20.PNG">
-
 ### Azure Best Model<img src="/images/Slide21.PNG">
-
 ### Azure Pipeline Endpoints<img src="/images/Slide22.PNG">
-
 ### Azure Bank Marketing Pipeline<img src="/images/Slide23.PNG">
-
 ### Azure Best Model<img src="/images/Slide24.PNG">
-
 ### Azure Published Pipeline Overview<img src="/images/Slide25.PNG">
-
 ### Azure Model Registration<img src="/images/Slide26.PNG">
-
 ### Azure Model Deployment<img src="/images/Slide27.PNG">
-
 ### Azure Machine Learning Insights<img src="/images/Slide28.PNG">
-
 ### Pipeline Completion & PipelineWidget<img src="/images/Slide29.PNG">
-
 ### Best Model<img src="/images/Slide30.PNG">
-
 ### Azure Model Deployment<img src="/images/Slide31.PNG">
-
 ### Running Azure Swagger CLI<img src="/images/Slide32.PNG">
-
 ### Azure Swagger Localhost API Call<img src="/images/Slide33.PNG">
-
 ### Azure HTTP API Call<img src="/images/Slide34.PNG">
-
 ### Create Azure ML Experiment<img src="/images/Slide35.PNG">
-
 ### Bank Marketing DataFrame Statistics<img src="/images/Slide36.PNG">
-
 ### Azure Machine Learning Execution Summary<img src="/images/Slide37.PNG">
-
 ### Azure Machine Learning Pipeline Execution Summary<img src="/images/Slide38.PNG">
-
 ### Azure Machine Learning Finished Pipeline Summary<img src="/images/Slide39.PNG">
-
 ### Pipeline Best Model<img src="/images/Slide40.PNG">
-
 ### Pipeline Best Model Steps<img src="/images/Slide41.PNG">
-
 ### Publish and Run from REST endpoint<img src="/images/Slide42.PNG">
-
 ### Azure Pipeline Run<img src="/images/Slide43.PNG">
+### Azure Pipeline API endpoints for swagger.json<img src="/images/Slide44.PNG">
+### Azure Pipeline JSON Payload<img src="/images/Slide45.PNG">
+### Azure Pipeline Swagger Run localhost:9000<img src="/images/Slide46.PNG">
 
 ## Future Improvements
-Benchmarking can be done using Apache Benchmark command-line tool to keep the performance of the model in check and above a standard level. It is used to determine the response time in seconds for the model that is deployed. Additionally, you could try different models to get the best possible one. This couldn't be done due to the costs incurred within the Virtual Machine. If we reduced the duration of the experiment or increased the number of processes running in parallel then the experiment will be fast and time can be save - however resource costs may increase. The use of the Kubernetes service can be helpful in case we add more data to the existing dataset. 
+Benchmarking can be done using Apache Benchmark command-line tool to keep the performance of the model in check and above a standard level. It is used to determine the response time in seconds for the model that is deployed. Additionally, you could try different models to get the best possible one. This couldn't be done due to the costs incurred within the Virtual Machine. If we reduced the duration of the experiment or increased the number of processes running in parallel then the experiment will be fast and time can be save - however resource costs may increase. The use of the Kubernetes service can be helpful in case we add more data to the existing dataset. This was a very challenging project and am happy it's finished. This project took approximately 9 hours to complete. 
 
 ## Video Link
 
