@@ -68,11 +68,32 @@ Lastly, the deployed service is consumed via an HTTP API. We initiate an inpute 
 ### Azure Pipeline API endpoints for swagger.json<img src="/images/Slide44.PNG">
 ### Azure Pipeline JSON Payload<img src="/images/Slide45.PNG">
 ### Azure Pipeline Swagger Run localhost:9000<img src="/images/Slide46.PNG">
+## New Screenshots - Final Run
+### Azure Model - Best / VotingEnsemble<img src="/images2/Slide1.PNG">
+### Azure Model - Data Guardrails<img src="/images2/Slide2.PNG">
+### Azure Model - Models<img src="/images2/Slide3.PNG">
+### Azure Model - Models Continued<img src="/images2/Slide4.PNG">
+### Azure Model - Models / Metrics<img src="/images2/Slide5.PNG">
+### Azure Model - Models / Metrics 2<img src="/images2/Slide6.PNG">
+### Azure Model - Models / Metrics 3<img src="/images2/Slide7.PNG">
+### Azure Experiments - Dataset Profile<img src="/images2/Slide8.PNG">
+### Azure AutoML - Details<img src="/images2/Slide9.PNG">
+### Azure Endpoints / Real-time Endpoints<img src="/images2/Slide10.PNG">
+### Azure Endpoints / Healthy Status<img src="/images2/Slide11.PNG">
+### Azure Endpoints / Test Endpoints / Alternative Payload Test<img src="/images2/Slide12.PNG">
+### Azure Endpoints / Consume<img src="/images2/Slide13.PNG">
+### Azure Endpoints / Deployment Logs<img src="/images2/Slide14.PNG">
+### Azure Insights / Metrics<img src="/images2/Slide15.PNG">
+### Azure Endpoints / Pipeline Endpoints / Active Status<img src="/images2/Slide16.PNG">
+### Azure Pipelines / Details / Active Status<img src="/images2/Slide17.PNG">
+### Azure Pipelines / Pipeline Endpoints / Active Status<img src="/images2/Slide18.PNG">
+### Azure Pipelines / Details / Active Status / REST Endpoints<img src="/images2/Slide19.PNG">
+### Azure Pipelines / Runs / Completed Runs<img src="/images2/Slide20.PNG">
 
 ## Future Improvements
 Benchmarking can be done using Apache Benchmark command-line tool to keep the performance of the model in check and above a standard level. It is used to determine the response time in seconds for the model that is deployed. Additionally, you could try different models to get the best possible one. This couldn't be done due to the costs incurred within the Virtual Machine. If we reduced the duration of the experiment or increased the number of processes running in parallel then the experiment will be fast and time can be save - however resource costs may increase. The use of the Kubernetes service can be helpful in case we add more data to the existing dataset. This was a very challenging project and am happy it's finished. This project took approximately 9 hours to complete. 
 
 ## Video Link
 
-### [Video Link](https://www.dropbox.com/s/upoew9usg5a2idj/Recording%20%238.mp4?dl=0)
-### [Video Link 2: Pipeline-Endpoint](https://www.dropbox.com/s/fzht649bdokbl2k/Recording%20%2310.mp4?dl=0)
+#### [Video Link](https://www.dropbox.com/s/upoew9usg5a2idj/Recording%20%238.mp4?dl=0)
+#### [Video Link 2: Pipeline-Endpoint](https://www.dropbox.com/s/fzht649bdokbl2k/Recording%20%2310.mp4?dl=0)
